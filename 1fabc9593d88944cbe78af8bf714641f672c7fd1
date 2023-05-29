@@ -39,6 +39,30 @@
       },
       "revId": "1fabc9593d88944cbe78af8bf714641f672c7fd1",
       "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5ef7fb2_90286297",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-29T15:42:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "18f46c0d_0074c9df",
+      "range": {
+        "startLine": 26,
+        "startChar": 62,
+        "endLine": 26,
+        "endChar": 85
+      },
+      "revId": "1fabc9593d88944cbe78af8bf714641f672c7fd1",
+      "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
     }
   ]
 }
