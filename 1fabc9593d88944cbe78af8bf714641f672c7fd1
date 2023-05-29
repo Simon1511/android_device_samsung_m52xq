@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bc97307_f978e3b8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-29T14:27:17Z",
+      "side": 1,
+      "message": "recovery kernel and modules",
+      "revId": "1fabc9593d88944cbe78af8bf714641f672c7fd1",
+      "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "18f46c0d_0074c9df",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-29T14:27:17Z",
+      "side": 1,
+      "message": "populate modules.load",
+      "range": {
+        "startLine": 26,
+        "startChar": 62,
+        "endLine": 26,
+        "endChar": 85
+      },
+      "revId": "1fabc9593d88944cbe78af8bf714641f672c7fd1",
+      "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
+    }
+  ]
+}
