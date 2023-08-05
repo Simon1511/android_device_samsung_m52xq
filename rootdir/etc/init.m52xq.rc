@@ -178,6 +178,10 @@ on post-fs-data && property:ro.csc.sales_code=TMB
 on property:sys.sysctl.zram_balance_ratio=*
     write /sys/module/zram/parameters/zram_balance_ratio ${sys.sysctl.zram_balance_ratio}
 
+on property:vendor.post_boot.parsed=1
+    # light sensor
+    write /sys/class/sensors/light_sensor/lcd_onoff 0
+
 # Remosaic daemon works with cameraserver
 service remosaic_daemon /vendor/bin/remosaic_daemon
     class core
