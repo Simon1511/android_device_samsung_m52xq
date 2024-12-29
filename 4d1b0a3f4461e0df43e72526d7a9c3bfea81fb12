@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a045131_d1bb26e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-29T14:43:20Z",
+      "side": 1,
+      "message": "gay ELF checks, fix later",
+      "revId": "4d1b0a3f4461e0df43e72526d7a9c3bfea81fb12",
+      "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
+    }
+  ]
+}
