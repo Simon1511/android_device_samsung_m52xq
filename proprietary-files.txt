@@ -71,7 +71,6 @@ vendor/lib/com.qti.feature2.stub.so
 vendor/lib64/com.qti.feature2.stub.so
 vendor/lib/com.qti.feature2.swmf.so
 vendor/lib64/com.qti.feature2.swmf.so
-vendor/lib/libsec2qc_conversion.so
 vendor/lib/libdualcam_refocus_image.so
 vendor/lib/libremosaic_wrapper.so
 vendor/lib/camera/com.samsung.sensor.imx616.so
