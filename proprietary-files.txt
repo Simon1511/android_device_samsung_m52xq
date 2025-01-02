@@ -24,7 +24,6 @@ vendor/lib/hw/camera.qcom.so
 vendor/lib/hw/com.qti.chi.override.so
 vendor/lib64/hw/camera.qcom.so|569a0e9945404f79710387cd5b47f2a90b1c53e6
 vendor/lib64/hw/com.qti.chi.override.so|5bf3ed7be5190c5cd8808b0f1c156dbdfa431e59
-vendor/lib/libhypermotion_core.so
 vendor/lib/com.qti.feature2.gs.kodiak.so
 vendor/lib/com.qti.feature2.rt.so
 vendor/lib64/com.qti.feature2.rt.so
@@ -71,8 +70,6 @@ vendor/lib/com.qti.feature2.stub.so
 vendor/lib64/com.qti.feature2.stub.so
 vendor/lib/com.qti.feature2.swmf.so
 vendor/lib64/com.qti.feature2.swmf.so
-vendor/lib/libsec2qc_conversion.so
-vendor/lib/libdualcam_refocus_image.so
 vendor/lib/libremosaic_wrapper.so
 vendor/lib/camera/com.samsung.sensor.imx616.so
 vendor/lib/camera/com.qti.eeprom.truly_cmb433.so
@@ -144,11 +141,7 @@ vendor/lib/camera/components/com.qtistatic.stats.awb.so
 vendor/lib/camera/components/com.qti.node.swmfnr.so
 vendor/lib/camera/components/com.qti.node.eisv2.so
 vendor/lib/camera/components/com.qti.stats.afd.so
-vendor/lib64/libdualcam_refocus_image.so
-vendor/lib64/libsec2qc_conversion.so
-vendor/lib64/libhypermotion_core.so
 vendor/lib64/libremosaic_wrapper.so
-vendor/lib64/libdualcam_refocus_video.so
 vendor/lib64/camera/w_dual_calibration.bin
 vendor/lib64/camera/uw_dual_calibration.bin
 vendor/lib64/camera/f_dual_calibration.bin
@@ -232,17 +225,11 @@ vendor/lib64/camera/components/com.qti.stats.aec.so
 vendor/lib64/camera/components/com.qti.stats.afd.so
 
 # Fingerprint
-vendor/lib/libbauthserver.so
 vendor/lib64/libbauthserver.so
-vendor/lib/libbauthtzcommon.so
 vendor/lib64/libbauthtzcommon.so
-vendor/lib/libsynaFpSensorTestNwd.so
 vendor/lib64/libsynaFpSensorTestNwd.so
-vendor/lib/libegis_fp_normal_sensor_test.so
 vendor/lib64/libegis_fp_normal_sensor_test.so
-vendor/lib/libqfp_sensortest.so
 vendor/lib64/libqfp_sensortest.so
-vendor/lib/libgf_in_system_lib.so
 vendor/lib64/libgf_in_system_lib.so
 
 # Graphics
